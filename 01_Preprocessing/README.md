@@ -6,7 +6,7 @@
 ## Descrição da atividade
 Nesta atividade apresentamos duas versões de um mesmo programa em python que lê um banco de dados de mulheres descendentes do povo Pima. Que segundo a [Wikipédia](https://en.wikipedia.org/wiki/Pima_people): "Os Pima são um povo nativo dos Estados Unidos da América que viviam às margens dos rios Gila e Sal, na parte sul do estado de Arizona."
 
-O primeira versão so programa python (`diabetes_csv.py`) trabalha com arquivos de dados em formato csv e a segunda comos arquivos em formato excel (`diabetes_xlsx.py`), deste modo você pode escolher o formato que preferir para trabalhar com os dados e fazer seu pré-processamento.
+O primeira versão do programa python (`diabetes_csv.py`) trabalha com arquivos de dados em formato csv e a segunda com os arquivos em formato Excel (`diabetes_xlsx.py`), deste modo você pode escolher o formato que preferir para trabalhar com os dados e fazer seu pré-processamento.
 
 A única modificação que precisa ser realizada no programa python é a inserção da chave enviada no local indicado, substituindo o texto entre aspas pela chave da equipe.
 
@@ -14,11 +14,11 @@ A única modificação que precisa ser realizada no programa python é a inserç
 DEV_KEY = "COLOCAR_SUA_KEY_AQUI"
 ```
 
-Feito isso o programa já está completo, porém ainda não funcional, pois existem erros nos dados que precissam ser pré-processados para que cumpram tudo que é demandado pelo algoritmo k-NN para que este funcione bem.
+Feito isso o programa já está completo, porém ainda não funcional, pois existem erros nos dados que precisam ser pré-processados para que cumpram tudo que é demandado pelo algoritmo k-NN para que este funcione bem.
 
 A atividade da equipe consiste em pré-processar os dados, modificando os arquivos no formato escolhido, para que estes se encontrem da melhor maneira para o funcionamento do algoritmo k-NN.
 
-Supondo que o formato escolhito tenha sido o xlsx (ou Excel), o programa `diabetes_xlsx.py` lê o arquivo `diabetes_dataset.xlsx` e o armazena nos vetores `X` e `y`. Em seguida ele constroi o modelo preditivo utilizando o k-NN com um `k = 3` e utiliza esse modelo para classificar os dados encontrados no arquivo `diabetes_app.xlsx`. Tais previsões são enviadas para o servidor que vai contabilizar a acurácia conseguida com as previsões realizadas, para em seguida retornar e armazenar o melhor desempenho conseguido pela equipe.
+Supondo que o formato escolhido tenha sido o xlsx (ou Excel), o programa `diabetes_xlsx.py` lê o arquivo `diabetes_dataset.xlsx` e o armazena nos vetores `X` e `y`. Em seguida ele constrói o modelo preditivo utilizando o k-NN com um `k = 3` e utiliza esse modelo para classificar os dados encontrados no arquivo `diabetes_app.xlsx`. Tais previsões são enviadas para o servidor que vai contabilizar a acurácia conseguida com as previsões realizadas, para em seguida retornar e armazenar o melhor desempenho conseguido pela equipe.
 
 ## Descrição da base de dados
 
