@@ -10,7 +10,7 @@ Para tudo que nos é enviado, assumimos que você está seguindo o código de ho
 
 ## Código de Honra
 
-"Como membro da comunidade deste curso, não vou participar nem tolerar a desonestidade acadêmica".
+>"Como membro da comunidade deste curso, não vou participar nem tolerar a desonestidade acadêmica".
 
 ## Licença
 
