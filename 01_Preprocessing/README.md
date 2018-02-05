@@ -34,3 +34,8 @@ Esse conjunto de dados pode ser baixado no [UCI Machine Learning Repository: Pim
 7. **DiabetesPedigreeFunction**: função de pedigree do diabetes
 8. **Age**: idade (anos)
 9. **Outcome**: variável de classe (0 ou 1) para diabetes
+
+## Instalando o python e suas dependências
+
+Uma maneira fácil de instalar a versão mais nova do python com todas as dependências necessárias para aprendizagem de máquina e manipulação de dados é baixar a distribuição [Anaconda](https://www.anaconda.com/download/). 
+
