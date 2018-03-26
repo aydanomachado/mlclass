@@ -6,7 +6,7 @@ Para tudo que nos é enviado, assumimos que você está seguindo o código de ho
 
 >"Como membro da comunidade deste curso, não vou participar nem tolerar a desonestidade acadêmica".
 
-## Objetivo
+## Objetivo da atividade
 *Trabalhar os algorítmos de busca de melhoria iterativa para problemas de otmização*
 	
 ## Descrição da atividade

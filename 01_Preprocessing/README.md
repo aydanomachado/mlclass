@@ -6,7 +6,7 @@ Para tudo que nos é enviado, assumimos que você está seguindo o código de ho
 
 >"Como membro da comunidade deste curso, não vou participar nem tolerar a desonestidade acadêmica".
 
-## Objetivo
+## Objetivo da atividade
 *Trabalhar o pré-processamento de dados para o algoritmo k-NN*
 
 ## Descrição da atividade
