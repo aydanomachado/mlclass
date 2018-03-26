@@ -35,7 +35,7 @@ data_app = pd.read_excel('diabetes_app.xlsx')
 y_pred = neigh.predict(data_app)
 
 # Enviando previsões realizadas com o modelo para o servidor
-URL = "http://aydanomachado.com/mlclass/01_Preprocessing.php"
+URL = "https://aydanomachado.com/mlclass/01_Preprocessing.php"
 
 #TODO Substituir pela sua chave aqui
 DEV_KEY = "COLOCAR_SUA_KEY_AQUI"

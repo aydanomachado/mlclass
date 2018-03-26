@@ -1,5 +1,11 @@
 # Atividade 02 - Otimização de antena para padrão de radiação
 
+Para tudo que nos é enviado, assumimos que você está seguindo o código de hora a seguir.
+
+## Código de Honra
+
+>"Como membro da comunidade deste curso, não vou participar nem tolerar a desonestidade acadêmica".
+
 ## Objetivo
 *Trabalhar os algorítmos de busca de melhoria iterativa para problemas de otmização*
 	

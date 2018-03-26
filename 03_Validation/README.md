@@ -1,5 +1,11 @@
 # Atividade 03 - Avaliação de classificadores
 
+Para tudo que nos é enviado, assumimos que você está seguindo o código de hora a seguir.
+
+## Código de Honra
+
+>"Como membro da comunidade deste curso, não vou participar nem tolerar a desonestidade acadêmica".
+
 ## Objetivo
 *Trabalhar a metodologia e técnicas para a avaliação de classificadores*
 
@@ -8,7 +14,7 @@ A atividade da equipe consiste em construir e validar um modelo(s) preditivo(s) 
 
 Nessa atividade vocês poderão utilizar qualquer algoritmo de aprendizagem mesmo os ainda não vistos em sala de aula tais como: SVM, Redes Neurais, RBFs, etc. Um detalhe importante é que o entendimento do algoritmo é necessário pois as equipes melhores ranqueadas terão, como nas outras atividades, compartilhar o que foi aprendido e isso inclui o algoritmo utilizado.
 
-Para o envio da atividade poderão ser utilizados os mesmos modelos de programas para ler e enviar os resultados utilizados na Atividade 01 - Pré-processamento, fazendo as devidas modificações como por exemplo alterar a url de envio para http://aydanomachado.com/mlclass/03_Validation.php.
+Para o envio da atividade poderão ser utilizados os mesmos modelos de programas para ler e enviar os resultados utilizados na Atividade 01 - Pré-processamento, fazendo as devidas modificações como por exemplo alterar a url de envio para https://aydanomachado.com/mlclass/03_Validation.php.
 
 Atenção: nessa atividade só será permitido 1 envio a cada 24h pois o objetivo é fazer uma boa validação do modelo antes desse ser enviado.
 

@@ -1,5 +1,11 @@
 # Atividade 01 - Pré-processamento
 
+Para tudo que nos é enviado, assumimos que você está seguindo o código de hora a seguir.
+
+## Código de Honra
+
+>"Como membro da comunidade deste curso, não vou participar nem tolerar a desonestidade acadêmica".
+
 ## Objetivo
 *Trabalhar o pré-processamento de dados para o algoritmo k-NN*
 
