@@ -1,6 +1,6 @@
 # Atividade 02 - Otimização de antena para padrão de radiação
 
-Para tudo que nos é enviado, assumimos que você está seguindo o código de hora a seguir.
+Para tudo que nos é enviado, assumimos que você está seguindo o código de honra a seguir.
 
 ## Código de Honra
 

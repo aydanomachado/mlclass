@@ -1,6 +1,6 @@
 # Atividade 01 - Pré-processamento
 
-Para tudo que nos é enviado, assumimos que você está seguindo o código de hora a seguir.
+Para tudo que nos é enviado, assumimos que você está seguindo o código de honra a seguir.
 
 ## Código de Honra
 
