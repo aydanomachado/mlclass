@@ -35,6 +35,8 @@ A antenha será composta de 3(três) junções e cada ângulo será representado
 
 Com os 3(três) pares de angulos definidos esses poderão ser submetidos para teste pode meio da url descrita a seguir, substituindo os ___ pelo valor do respectivo ângulo dentro do intervalo [0;360)
 
+(Obs.: Será mostrado como inicializar o servidor na próxima seção)
+
 ```
 /antenna/simulate?phi1=___&theta1=___&phi2=___&theta2=___&phi3=___&theta3=___
 ```
@@ -57,7 +59,7 @@ phi3 = 90
 theta3 = 90
 ```
 
-Tal como já mencionado anteriormente o objetivo é obter o maior ganho, ou seja, o mair valor representado na primeira linha	da resposta do teste da antena.
+Tal como já mencionado anteriormente o objetivo é obter o maior ganho, ou seja, o mair valor representado na primeira linha da resposta do teste da antena.	
 
 ## Inicializando o ambiente para teste da antena
 
@@ -68,12 +70,4 @@ java -jar OPServer.jar
 ```
 
 Isso vai inicializar o ambiente de simulação que foi implementado sob a forma de um servidor web em Java para que este receba as requisições, comentadas anteriormente, calcule o ganho conseguido pela antena e retorne o resultado.
-
-## Instruções para registro do resultado conseguido
-
-O primeira versão do programa python (`agente.py`) 
-
-```python
-DEV_KEY = "COLOCAR_SUA_KEY_AQUI"
-```
 
