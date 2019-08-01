@@ -8,6 +8,9 @@ PLE requires the following dependencies:
 * numpy
 * pygame
 * pillow
+
+Install with pip
+
 ```bash
 
 pip install -R requirements.txt
