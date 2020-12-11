@@ -18,7 +18,7 @@ Para o envio da atividade poderão ser utilizados os mesmos modelos de programas
 
 **Atenção:** nessa atividade só será permitido **1 envio a cada 12h** pois o objetivo é fazer uma boa validação do modelo antes desse ser enviado.
 
-Ainda nos mesmos moldes da Atividade 01 os arquivos `abalone_dataset.xlsx` ou `abalone_dataset.csv` devem ser utilizados para a construção e validação do modelo preditivo (classificador) e os arquivos `abalone_app.xlsx` ou `abalone_app.csv` utilizados para teste do modelo e as previsões enviadas para o servidor onde será registrado o desempenho do modelo construído.
+Ainda nos mesmos moldes da Atividade 01 os arquivos `abalone_dataset.xlsx` ou `abalone_dataset.csv` devem ser utilizados para a construção e validação do modelo preditivo (classificador) e os arquivos `abalone_app.xlsx` ou `abalone_app.csv` utilizados para teste do modelo e as previsões enviadas para o servidor onde será registrado o desempenho do modelo construído, correspondente a sua acurácia.
 
 ## Descrição da base de dados
 
@@ -40,4 +40,4 @@ A base consiste de informações de um molusco chamado Abalone, e o objetivo do 
 6. **Shucked weight**: peso em gramas da carne
 7. **Viscera weight**: peso em gramas das víceras após escorrer
 8. **Shell weight**: peso em gramas para a concha após estar seca
-9. **Type**: variável de classe (1, 2 ou 1) para o abalone
+9. **Type**: variável de classe (1, 2 ou 3) para o abalone
