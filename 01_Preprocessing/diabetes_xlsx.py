@@ -32,6 +32,7 @@ neigh.fit(X, y)
 #realizando previsões com o arquivo de
 print(' - Aplicando modelo e enviando para o servidor')
 data_app = pd.read_excel('diabetes_app.xlsx')
+data_app = data_app[feature_cols]
 y_pred = neigh.predict(data_app)
 
 # Enviando previsões realizadas com o modelo para o servidor
