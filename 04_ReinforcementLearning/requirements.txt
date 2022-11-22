@@ -1,4 +1,4 @@
 ﻿numpy==1.17.0
-Pillow==6.2.2
+Pillow==9.3.0
 -e git+https://github.com/CarlosW1998/PyGame-Learning-Environment@47c77f7d37667a5865bc8e1a811eac09d3f19aa4#egg=ple
 pygame==1.9.6
